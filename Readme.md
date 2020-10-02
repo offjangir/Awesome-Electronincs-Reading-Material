@@ -1,3 +1,4 @@
+# Awesome Electronics Reading Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # RESOURCES
 
 ## LISTING OF BEST REPOSITORIES  ON GITHUB
